@@ -117,7 +117,7 @@
     # map ** restoreTab                                    # 恢复最近关闭标签页
                                                            # Restore closed tab
     # map ** moveTabToNewWindow                            # 选项卡移动到新窗口
-                                                       # Move tab to new window
+                                                           # Move tab to new window
 
 ------------
 ## 取消键映射
