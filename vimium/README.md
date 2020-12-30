@@ -156,19 +156,24 @@
 ------------
 ## 搜索引擎
 ------------
-    w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia
-    
-    # More examples.
-    #
-    # (Vimium supports search completion Wikipedia, as
-    # above, and for these.)
-    #
-    g: https://www.google.com/search?q=%s Google
-    d: https://www.baidu.com/s?ie=utf-8&wd=%s Baidu
-    # l: https://www.google.com/search?q=%s&btnI I'm feeling lucky...
-    y: https://www.youtube.com/results?search_query=%s Youtube
-    # gm: https://www.google.com/maps?q=%s Google maps
-    b: https://www.bing.com/search?q=%s Bing
-    # d: https://duckduckgo.com/?q=%s DuckDuckGo
-    # az: https://www.amazon.com/s/?field-keywords=%s Amazon
-    # qw: https://www.qwant.com/?q=%s Qwant
+
+w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia
+
+# More examples.
+#
+# (Vimium supports search completion Wikipedia, as
+# above, and for these.)
+#
+git: https://github.com/search?q=%s GitHub
+gz: https://translate.google.cn/?sl=zh-CN&tl=en&text=%s Translate zh-CN&en
+ge: https://translate.google.cn/?sl=en&tl=zh-CN&text=%s Translate en&zh-CN
+yd: http://www.youdao.com/w/eng/%s YD Translate
+g: https://www.google.com/search?q=%s Google
+d: https://www.baidu.com/s?ie=utf-8&wd=%s Baidu
+# l: https://www.google.com/search?q=%s&btnI I'm feeling lucky...
+y: https://www.youtube.com/results?search_query=%s Youtube
+# gm: https://www.google.com/maps?q=%s Google maps
+b: https://www.bing.com/search?q=%s Bing
+# d: https://duckduckgo.com/?q=%s DuckDuckGo
+# az: https://www.amazon.com/s/?field-keywords=%s Amazon
+# qw: https://www.qwant.com/?q=%s Qwant
