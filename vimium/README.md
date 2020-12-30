@@ -58,7 +58,7 @@
     map s LinkHints.activateMode                  # 本标签页打开链接
                                                   # Open a link in the current tab
     map S LinkHints.activateModeToOpenInNewTab    # 新标签页打开链duplicateTab 
-                                              # Open a link in a new tab
+                                                  # Open a link in a new tab
 ----------------
 ##  Vimium其它键映射参数
 ----------------
