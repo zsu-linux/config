@@ -164,8 +164,9 @@
 		# above, and for these.)
 		#
 		git: https://github.com/search?q=%s GitHub
-		arch: https://wiki.archlinux.orgindex.php/%s ArchWiki
+		arch: https://wiki.archlinux.org/index.php/%s ArchWiki
 		aur: https://aur.archlinux.org/packages/?O=0&SeB=nd&K=%s Aur
+		bili: https://search.bilibili.com/all?keyword=%s Bilibili
 		gz: https://translate.google.cn/?sl=zh-CN&tl=en&text=%s Google Translate zh-CN&en
 		ge: https://translate.google.cn/?sl=en&tl=zh-CN&text=%s Google Translate en&zh-CN
 		yd: http://www.youdao.com/w/eng/%s Youdao Translate
@@ -177,4 +178,4 @@
 		b: https://www.bing.com/search?q=%s Bing
 		# d: https://duckduckgo.com/?q=%s DuckDuckGo
 		# az: https://www.amazon.com/s/?field-keywords=%s Amazon
-		# qw: https://www.qwant.com/?q=%s Qwant/
+		# qw: https://www.qwant.com/?q=%s Qwant
